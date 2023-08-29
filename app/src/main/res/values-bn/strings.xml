@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">মাল্টি ল্যাঙ্গুয়েজ অ্যাপ</string>
+    <string name="navigation_drawer_open">নেভিগেশন ড্রয়ার খুলুন</string>
+    <string name="navigation_drawer_close">নেভিগেশন ড্রয়ার বন্ধ করুন</string>
+    <string name="nav_header_title">Android Wave</string>
+    <string name="nav_header_subtitle">androidwave.com</string>
+    <string name="nav_header_desc">Android &amp; iOS ডেভেলপার ব্লগ</string>
+    <string name="action_settings">সেটিংস</string>
+    <string name="description_androidwave">আমরা android প্রদর্শন করি &amp; এর জন্য iOS অ্যাপ ডেভেলপমেন্ট টিউটোরিয়াল
+     Firebase, Camera2 API, Exo Player, Youtube API, Dagger2, RxJava, MVVM, MVP, Realm, এবং আরও অনেক কিছু৷</string>
+    <string name="text_hindi" translatable="false">হিন্দী</string>
+    <string name="text_english" translatable="false">ইংরেজি</string>
+    <string name="text_spanish" translatable="false">গুজারি</string>
+    <!-- নেভিগেশন মেনু-->
+    <string name="title_import">আমদানি করুন</string>
+    <string name = "title_gallery"> গ্যালারি</string>
+    <string name="title_slideshow">স্লাইডশো</string>
+    <string name = "title_tools"> টুলস</string>
+    <string name="title_communication">যোগাযোগ করুন</string>
+    <string name="title_share">শেয়ার করুন</string>
+    <string name="title_send">পাঠান</string>
+</resources>

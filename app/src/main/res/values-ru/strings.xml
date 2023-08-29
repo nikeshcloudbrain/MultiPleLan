@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Многоязычное приложение</string>
+    <string name="navigation_drawer_open">Открыть панель навигации</string>
+    <string name="navigation_drawer_close">Закрыть панель навигации</string>
+    <string name="nav_header_title">Android Wave</string>
+    <string name="nav_header_subtitle">androidwave.com</string>
+    <string name="nav_header_desc">Android &amp; Блог разработчиков iOS</string>
+    <string name="action_settings">Настройки</string>
+    <string name="description_androidwave">Мы демонстрируем Android &amp; Учебные пособия по разработке iOS-приложений для
+     Firebase, Camera2 API, Exo Player, Youtube API, Dagger2, RxJava, MVVM, MVP, Realm и другие.</string>
+    <string name="text_hindi" translatable="false">हिंदी</string>
+    <string name="text_english" translatable="false">Английский</string>
+    <string name="text_spanish" translatable="false">ગુજરાતી</string>
+    <!-- Меню навигации-->
+    <string name="title_import">Импорт</string>
+    <string name="title_gallery">Галерея</string>
+    <string name="title_slideshow">Слайд-шоу</string>
+    <string name="title_tools">Инструменты</string>
+    <string name="title_communication">Общаться</string>
+    <string name="title_share">Поделиться</string>
+    <string name="title_send">Отправить</string>
+</resources>

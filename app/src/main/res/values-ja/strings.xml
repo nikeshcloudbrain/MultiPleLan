@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">多言語アプリ</string>
+    <string name="navigation_drawer_open">ナビゲーション ドロワーを開く</string>
+    <string name="navigation_drawer_close">ナビゲーション ドロワーを閉じる</string>
+    <string name="nav_header_title">Android Wave</string>
+    <string name="nav_header_subtitle">androidwave.com</string>
+    <string name="nav_header_desc">Android と iOS 開発者ブログ</string>
+    <string name="action_settings">設定</string>
+    <string name="description_androidwave">Android と Android のデモを行います。 iOS アプリ開発チュートリアル
+     Firebase、Camera2 API、Exo Player、Youtube API、Dagger2、RxJava、MVVM、MVP、Realm など。</string>
+    <string name="text_hindi" translatable="false">हिंदी</string>
+    <string name="text_english" translatable="false">英語</string>
+    <string name="text_spanish" translatable="false">ગુજરાતી</string>
+    <!-- ナビゲーション メニュー -->
+    <string name="title_import">インポート</string>
+    <string name="title_gallery">ギャラリー</string>
+    <string name="title_slideshow">スライドショー</string>
+    <string name="title_tools">ツール</string>
+    <string name="title_communication">コミュニケーション</string>
+    <string name="title_share">共有</string>
+    <string name="title_send">送信</string>
+</resources>

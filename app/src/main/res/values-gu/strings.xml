@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">મલ્ટી લેંગ્વેજ એપ</string>
+    <string name = "navigation_drawer_open"> નેવિગેશન ડ્રોઅર ખોલો</string>
+    <string name="navigation_drawer_close">નેવિગેશન ડ્રોઅર બંધ કરો</string>
+    <string name="nav_header_title">Android Wave</string>
+    <string name="nav_header_subtitle">androidwave.com</string>
+    <string name="nav_header_desc">Android &amp; iOS ડેવલપર બ્લોગ</string>
+    <string name="action_settings">સેટિંગ્સ</string>
+    <string name="description_androidwave">અમે android &amp; માટે iOS એપ્લિકેશન વિકાસ ટ્યુટોરિયલ્સ
+     Firebase, Camera2 API, Exo Player, Youtube API, Dagger2, RxJava, MVVM, MVP, Realm, અને વધુ.</string>
+
+    <!-- નેવિગેશન મેનુ-->
+    <string name = "title_import">આયાત કરો</string>
+    <string name = "title_gallery">ગેલેરી</string>
+    <string name="title_slideshow">સ્લાઇડશો</string>
+    <string name = "title_tools">સાધનો</string>
+    <string name="title_communication">સંચાર કરો</string>
+    <string name = "title_share">શેર કરો</string>
+    <string name="title_send">મોકલો</string>
+</resources>

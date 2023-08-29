@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="navigation_drawer_open">فتح درج التنقل</string>
+    <string name="navigation_drawer_Close">أغلق درج التنقل</string>
+    <string name="nav_header_title">Android Wave</string>
+    <string name="nav_header_subtitle">androidwave.com</string>
+    <string name="nav_header_desc">Android &amp; مدونة مطوري iOS</string>
+    <string name="action_settings">الإعدادات</string>
+    <string name="description_androidwave">نوضح نظام Android &amp; دروس تطوير تطبيقات iOS لـ
+     Firebase وCamera2 API وExo Player وYoutube API وDagger2 وRxJava وMVVM وMVP وRealm والمزيد.</string>
+    <string name="text_hindi" translatable="false">हिंगी</string>
+    <string name="text_english" translatable="false">الإنجليزية</string>
+    <string name="text_spanish" translatable="false">ગુજરાતી</string>
+    <!-- قائمة التنقل-->
+    <string name="title_import">استيراد</string>
+    <string name="title_gallery">المعرض</string>
+    <string name="title_slideshow">عرض الشرائح</string>
+    <string name="title_tools">الأدوات</string>
+    <string name="title_communication">التواصل</string>
+    <string name="title_share">مشاركة</string>
+</resources>

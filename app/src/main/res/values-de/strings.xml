@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Mehrsprachige App</string>
+    <string name="navigation_drawer_open">Navigationsschublade öffnen</string>
+    <string name="navigation_drawer_close">Navigationsschublade schließen</string>
+    <string name="nav_header_title">Android Wave</string>
+    <string name="nav_header_subtitle">androidwave.com</string>
+    <string name="nav_header_desc">Android &amp; iOS-Entwicklerblog</string>
+    <string name="action_settings">Einstellungen</string>
+    <string name="description_androidwave">Wir demonstrieren Android &amp; Tutorials zur iOS-App-Entwicklung für
+     Firebase, Camera2 API, Exo Player, Youtube API, Dagger2, RxJava, MVVM, MVP, Realm und mehr.</string>
+    <string name="text_hindi" translatorable="false">nicht</string>
+    <string name="text_english" translatable="false">Englisch</string>
+    <string name="text_spanish" translatorable="false">Gegenstand</string>
+    <!-- Navigationsmenü-->
+    <string name="title_import">Importieren</string>
+    <string name="title_gallery">Galerie</string>
+    <string name="title_slideshow">Diashow</string>
+    <string name="title_tools">Tools</string>
+    <string name="title_communication">Kommunizieren</string>
+    <string name="title_share">Teilen</string>
+    <string name="title_send">Senden</string>
+</resources>

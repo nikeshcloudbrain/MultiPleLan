@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ملٹی لینگویج ایپ</string>
+    <string name = "navigation_drawer_open"> نیویگیشن دراز کھولیں</string>
+    <string name = "navigation_drawer_close"> نیویگیشن دراز بند کریں</string>
+    <string name="nav_header_title">Android Wave</string>
+    <string name="nav_header_subtitle">androidwave.com</string>
+    <string name="nav_header_desc">Android &amp; iOS ڈیولپر بلاگ</string>
+    <string name = "action_settings"> ترتیبات</string>
+    <string name="description_androidwave">ہم android کو ظاہر کرتے ہیں &amp; iOS ایپ ڈویلپمنٹ سبق برائے
+     Firebase, Camera2 API, Exo Player, Youtube API, Dagger2, RxJava, MVVM, MVP, Realm, اور مزید۔</string>
+    <string name="text_hindi" translatable="false">ہندی</string>
+    <string name="text_english" translatable="false">انگریزی</string>
+    <string name="text_spanish" translatable="false">Google</string>
+    <!-- نیویگیشن مینو-->
+    <string name = "title_import"> درآمد کریں</string>
+    <string name = "title_gallery">گیلری</string>
+    <string name="title_slideshow">سلائیڈ شو</string>
+    <string name = "title_tools"> ٹولز</string>
+    <string name="title_communication">مواصلت کریں</string>
+    <string name = "title_share"> اشتراک کریں</string>
+    <string name="title_send">بھیجیں</string>
+</resources>

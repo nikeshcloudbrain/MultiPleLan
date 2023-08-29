@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Aplicativo multilíngue</string>
+    <string name="navigation_drawer_open">Abrir gaveta de navegação</string>
+    <string name="navigation_drawer_close">Fechar gaveta de navegação</string>
+    <string name="nav_header_title">Onda Android</string>
+    <string name="nav_header_subtitle">androidwave.com</string>
+    <string name="nav_header_desc">Android e Android Blog do desenvolvedor iOS</string>
+    <string name="action_settings">Configurações</string>
+    <string name="description_androidwave">Demonstramos o Android e o Android. Tutoriais de desenvolvimento de aplicativos iOS para
+     Firebase, API Camera2, Exo Player, API Youtube, Dagger2, RxJava, MVVM, MVP, Realm e muito mais.</string>
+    <string name="text_hindi" translatetable="false">हिंदी</string>
+    <string name="text_english" translatetable="false">Inglês</string>
+    <string name="text_spanish" translatetable="false">ગુજરાતી</string>
+    <!-- Menu de navegação-->
+    <string name="title_import">Importar</string>
+    <string name="title_gallery">Galeria</string>
+    <string name="title_slideshow">Apresentação de slides</string>
+    <string name="title_tools">Ferramentas</string>
+    <string name="title_communication">Comunicar</string>
+    <string name="title_share">Compartilhar</string>
+    <string name="title_send">Enviar</string>
+</resources>
